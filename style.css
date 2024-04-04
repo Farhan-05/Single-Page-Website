@@ -1,0 +1,113 @@
+.container{
+    
+    max-width: 1140px;
+}
+
+h3{
+    color: purple;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.btnn{
+    color: black;
+    background-color: #f7941e;
+    border-style: none;
+    padding: 5px;
+   margin-top: 8px;
+  
+   font-size: 14px;
+   height: 44px;
+   margin-bottom: 10px;
+
+
+}
+table{
+    border-color: purple !important;
+}
+
+tr{
+    border: 1px solid purple;
+    text-align: center;
+
+}
+td {
+    vertical-align: middle;
+}
+p{
+    margin: 0px;
+}
+
+
+.list-group-item.active{
+    color:black;
+    background-color: #f6e5f9;
+    border-color: #f6e5f9;
+    border: 0px !important;
+
+
+}
+.list-group-item{
+    color:black;
+    border: 0px !important;
+
+
+}
+
+
+
+.action{
+    border: 1px solid #f6e5f9;
+   
+    
+}
+
+
+.scrollbar{
+    overflow: auto;
+    height: 200px;
+ 
+
+}
+
+.min-head{
+    font-size: 22px;
+}
+
+.Chooose{
+    border: 0;
+}
+
+td.bgc{
+    background-color:#f6e5f9 ;
+    color: black;
+    font-size: 22px;
+}
+.bordered{
+    border: 1px solid black;
+   border-color: #f6e5f9;   
+}
+
+
+
+.sec-btn{
+    background-color: #f6e5f9;
+    border: none;
+    color: black;   
+    width: 80px;
+    height: 32px;
+}
+
+
+select.slt.selectpicker {
+    align-content: center;
+    align-items: center;
+    position: absolute;
+    right: 65px;
+    background-color:#f7941e;
+    color: black;
+}
+select.slt.selectpicker:hover{
+    background-color: purple;
+    color: white;
+}
